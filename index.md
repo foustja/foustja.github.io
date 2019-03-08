@@ -1,4 +1,4 @@
-![Saturn Rings](/saturnrings.png)
+![Rings](/rings.png)
 
 This is a my new github user page; I will be making some additions later.
 
