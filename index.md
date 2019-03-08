@@ -1,3 +1,11 @@
+This is a new page; I will be making some additions later.
+
+For now, this is a ink to my [Wordpress blog](https://symbolicdomain.wordpress.com)
+
+This is a link to my [Github repositories](https://github.com/foustja)
+
+(What follows below is an introduction to Github pages and Markdown, which I am leaving for now.)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/foustja/foustja.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
