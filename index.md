@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Luxaeterna</title>
+    <!--<title>Luxaeterna</title> -->
   </head>
   <body>
     <h1>Welcome to the Infinite Playa!</h1>
