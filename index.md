@@ -28,7 +28,7 @@
     </p>
     <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a>, which I
-      had the pleasure of seeing in 2017, as well as
+      had the pleasure of seeing in 2017, and
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
       ambitious projects.
     </p>
