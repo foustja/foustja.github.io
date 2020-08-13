@@ -1,11 +1,44 @@
-![Playa](/PlayaPano2019.JPG)
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Luxaeterna</title>
+  </head>
+  <body>
+    <h1>Welcome to the Infinite Playa!</h1>
+    <img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">
+    <h2>Luxaeterna</h2>
+    <!--<img src="http://foustja.ddns.net:8081" alt="Luxaeterna stream"> -->
+    <!--<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
+    frameborder="0" allowfullscreen></iframe> --> 
+    <p>Luxaterna is light sculpture constructed from WS2822 LEDs embedded
+      in pentagonal PCBs, and controlled with an Adafruit Metro Mini. 
+      Arduino/C++ and FastLED are used to allow cycling through a series 
+      of paterns and colors.
+    </p>
+    <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
+      title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
+    <p>During the week of 30 August - 6 September, 2020, this page will
+      display a live stream video of Luxaeterna. However, at various times
+      other objects may be displayed; these might include bones, shells, a
+      stone lizard, a glass turtle or anything else that might seem interesting
+      at the time. Hopefully, Luxaeterna, along with other similar constructions
+      will be on display  in 2021.
+    </p>
+    <p>Inspiration for Luxaeterna was provided by Bunnie Hung's masterpiece,
+      <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a>, which I
+      had the pleasure of seeing in 2017, as well as
+      <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
+      ambitious projects.
+    </p>
+    <footer>
+      <p>
+       This page created with <a href="https://atom.io/">Atom</a><br>
+       <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
+       <a href="https://github.com/foustja">Github</a>
+      </p>
+    </footer>
+  </body>
+</html>
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" frameborder="0" allowfullscreen></iframe> --> 
-
-<a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
-
-This is a my new github user page; I will be making some additions later.
-
-Here is a link to my [Wordpress blog](https://symbolicdomain.wordpress.com)
-
-Here is a link to my [Github repositories](https://github.com/foustja)
