@@ -32,13 +32,13 @@
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
       ambitious projects.
     </p>
-    <footer>
+    <!--<footer>-->
       <p>
-       This page created with <a href="https://atom.io/">Atom</a><br>
+       Page created with <a href="https://atom.io/">Atom</a><br>
        <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
        <a href="https://github.com/foustja">Github</a>
       </p>
-    </footer>
+    <!--</footer>-->
   </body>
 </html>
 
