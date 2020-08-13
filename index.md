@@ -15,9 +15,9 @@
     frameborder="0" allowfullscreen> </iframe> 
     </div>-->
     <p>Luxaterna is a light sculpture constructed from WS2822 LEDs embedded
-      in pentagonal PCBs, and controlled with an Adafruit Metro Mini. 
+      in pentagonal PCBs (i.e., BlinkTiles) and controlled with an Adafruit Metro Mini. 
       Arduino/C++ and FastLED are used to allow cycling through a series 
-      of paterns and colors.
+      of patterns and colors.
     </p>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
