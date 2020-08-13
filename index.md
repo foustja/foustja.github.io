@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Welcome to the Infinite Playa!</h1>
-    <img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">
+    <img src="PlayaPano2019.JPG" alt="PlayaPano2019.JPG">
     <h2>Luxaeterna</h2>
     <!--<img src="http://foustja.ddns.net:8081" alt="Luxaeterna stream"> -->
     <!--<iframe width="560" height="315" 
