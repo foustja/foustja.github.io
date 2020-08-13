@@ -1,6 +1,6 @@
 ![Playa](/PlayaPano2019.JPG)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" frameborder="0" allowfullscreen></iframe> --> 
 
 <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" title="Youtube Livestream"><img src=""/></a>
 
