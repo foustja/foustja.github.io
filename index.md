@@ -26,7 +26,7 @@
       at the time. Hopefully, Luxaeterna, along with other similar constructions
       will be displayed on playa in 2021. Time will tell.
     </p>
-    <p>Inspiration for Luxaeterna was provided by Bunnie Hung's masterpiece,
+    <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a>, which I
       had the pleasure of seeing in 2017, as well as
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
