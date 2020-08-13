@@ -1,4 +1,4 @@
-![Playa](/PlayaPano.jpg)
+![Playa](/PlayaPano2019.JPG)
 
 This is a my new github user page; I will be making some additions later.
 
