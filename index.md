@@ -1,4 +1,4 @@
-![Rings](/rings.png)
+![Playa](/PlayaPano.jpg)
 
 This is a my new github user page; I will be making some additions later.
 
