@@ -11,7 +11,7 @@
     <!--<img src="http://foustja.ddns.net:8081" alt="Luxaeterna stream"> -->
     <div class="iframe_container">
     <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA&autoplay=1" 
+    src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
     frameborder="0" allowfullscreen> </iframe> 
     </div>
     <p>Luxaterna is a light sculpture constructed from WS2822 LEDs embedded
