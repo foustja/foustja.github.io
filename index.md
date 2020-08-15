@@ -8,9 +8,8 @@
     <h1>Welcome to the Infinite Playa!</h1>
     <img src="PlayaPano2019.JPG" alt="PlayaPano2019.JPG">
     <h2>Luxaeterna</h2>
-    <!--<img src="http://foustja.ddns.net:8081" alt="Luxaeterna stream"> -->
     <!--<div class="iframe_container">
-    <iframe width="560" height="315" 
+    <iframe width="640" height="480" 
     src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
     frameborder="0" allowfullscreen> </iframe> 
     </div>-->
@@ -21,13 +20,6 @@
     </p>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
-    <br>
-    <!-- blank line -->
-    <figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" frameborder="0" allowfullscreen="true"> </iframe>
-    </figure>
-    <!-- blank line -->
-    <br>
     <p>During the week of 30 August - 6 September, 2020, this page will
       (intermittently) display or provide access to a live stream video of Luxaeterna. 
       However, at various times other objects may be displayed; these might include 
