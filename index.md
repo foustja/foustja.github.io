@@ -21,6 +21,13 @@
     </p>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
+    <br>
+    <!-- blank line -->
+    <figure class="video_container">
+    <iframe src="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
+    <!-- blank line -->
+    <br>
     <p>During the week of 30 August - 6 September, 2020, this page will
       (intermittently) display or provide access to a live stream video of Luxaeterna. 
       However, at various times other objects may be displayed; these might include 
