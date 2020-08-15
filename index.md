@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Welcome to the Infinite Playa!</h1>
-    <img src="PlayaPano2019.JPG" alt="PlayaPano2019.JPG">
+    <img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">
     <h2>Luxaeterna</h2>
     <img src="lux.jpg" alt="Luxaeterna image">
     <!--<div class="iframe_container">
@@ -19,8 +19,10 @@
       Arduino/C++ and FastLED allow cycling through a series 
       of patterns and colors.
     </p>
+    <a href="https://youtu.be/qxCZm41zsss" 
+      title="Youtube Video"><img src="luxvideobutton.png" alt="Video" /></a>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
-      title="Youtube Livestream"><img src="/livebutton2.png" alt="Livestream" /></a>
+      title="Youtube Livestream"><img src="luxlivebutton.png" alt="Livestream" /></a>
     <p>During the week of 30 August - 6 September, 2020, this page will
       (intermittently) display or provide access to a live stream video of Luxaeterna. 
       However, at various times other objects may be displayed; these might include 
