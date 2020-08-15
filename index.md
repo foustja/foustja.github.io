@@ -27,7 +27,7 @@
       (intermittently) display or provide access to a live stream video of Luxaeterna. 
       However, at various times other objects may be displayed; these might include 
       bones, shells, a stone lizard, a glass turtle or anything else that seems 
-      interesting. Hopefully, Luxaeterna, along with other similar 
+      interesting. Hopefully, Luxaeterna, along with similar 
       constructions will be displayed on playa in 2021. Time will tell.
     </p>
     <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
