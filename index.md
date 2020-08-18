@@ -6,7 +6,7 @@
   </head>
   <body>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
-    <img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">
+    <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
     <h2>Luxaeterna</h2>
     <img src="lux.jpg" alt="Luxaeterna image">
     <!--<div class="iframe_container">
