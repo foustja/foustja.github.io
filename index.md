@@ -20,7 +20,7 @@
       of patterns and colors.
     </p>
     <!--<a href="https://youtu.be/qxCZm41zsss"-->
-    <a href="Luxaeterna2.mp4">
+    <a href="Luxaeterna2.mp4"
       title="Video"><img src="luxvideobutton.jpg" alt="Video" /></a><br>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream"><img src="luxlivebutton.jpg" alt="Livestream" /></a>
