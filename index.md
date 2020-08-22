@@ -24,9 +24,9 @@
     </p>
     <!--<a href="https://youtu.be/qxCZm41zsss"-->
     <a href="Luxaeterna2.mp4"
-      title="Video"><img src="luxvideobutton.jpg" alt="Video" /></a><br>
+      title="2 min. Video">Pre-recorded</a><br>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
-      title="Youtube Livestream"><img src="luxlivebutton.jpg" alt="Livestream" /></a>
+      title="Youtube Livestream">Livestream</a>
     <p>During the week of 30 August - 6 September, 2020, this page will
       (intermittently) display or provide access to a live stream video of Luxaeterna. 
       However, at various times other objects may be displayed; these might include 
