@@ -27,13 +27,6 @@
       title="2 min. Video">Pre-recorded</a><br>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream">Livestream</a>
-    <p>During the week of 30 August - 6 September, 2020, this page will
-      (intermittently) display or provide access to a live stream video of Luxaeterna. 
-      However, at various times other objects may be displayed; these might include 
-      bones, shells, a stone lizard, a glass turtle or anything else that seems 
-      interesting. Hopefully, Luxaeterna, along with similar 
-      constructions will be displayed on playa in 2021. Time will tell.
-    </p>
     <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a>, which I
       had the pleasure of seeing in 2017, and
