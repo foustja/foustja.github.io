@@ -7,6 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
   </head>
   <body>
+    <div id='myContainer'></div>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
     <h2>Luxaeterna</h2>
