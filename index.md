@@ -1,15 +1,15 @@
 <!-- <!DOCTYPE html> -->
 <html>
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <meta charset="utf-8">
     <!--<title>Luxaeterna</title> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
   </head>
   <body>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
-    <h2>Luxaeterna</h2
-    <script src="sketch1.js" type="text/javascript"></script>               
+    <h2>Luxaeterna</h2>
+    <script src="sketch1.js" type="text/javascript"></script>
     <img src="lux.jpg" alt="Luxaeterna image"><br>
     <video width="320" height="240" controls>
     <source src="Luxaeterna2.mp4" type="video/mp4">
