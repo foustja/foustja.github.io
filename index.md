@@ -1,7 +1,6 @@
 <!-- <!DOCTYPE html> -->
 <html>
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js"></script>
     <meta charset="utf-8">
     <!--<title>Luxaeterna</title> -->
   </head>
