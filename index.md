@@ -1,10 +1,13 @@
 <!-- <!DOCTYPE html> -->
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js"></script>
     <meta charset="utf-8">
     <!--<title>Luxaeterna</title> -->
   </head>
   <body>
+    <script src="sketch1.js"></script>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
     <h2>Luxaeterna</h2>
@@ -33,6 +36,10 @@
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
       ambitious projects.
     </p>
+
+ 
+
+    
     <!--<footer>-->
       <p>
        Page created with <a href="https://atom.io/">Atom</a><br>
