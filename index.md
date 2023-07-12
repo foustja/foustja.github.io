@@ -1,12 +1,12 @@
 <!-- <!DOCTYPE html> -->
 <html>
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <meta charset="utf-8">
     <!--<title>Luxaeterna</title> -->
   </head>
   <body>
-    <script src="sketch1.js"></script>
+    <script src="sketch1.js" type="text/javascript"></script>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
     <h2>Luxaeterna</h2>
