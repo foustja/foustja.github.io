@@ -1,5 +1,6 @@
 function setup() {
-  createCanvas(400, 400, WEBGL);
+  let myCanvas = createCanvas(400, 400, WEBGL); 
+  myCanvas.parent('myContainer');
   noStroke();
 }
 function draw() {
