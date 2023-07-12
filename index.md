@@ -6,7 +6,7 @@
     <!--<title>Luxaeterna</title> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
-    <p>(The animation above is a p5.js example sketch by Koma Tebe. You can read about it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>. 
+    <p>(The animation above is a p5.js example sketch by Koma Tebe. You can read about it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
     </p>
   </head>
   <body>
