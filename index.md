@@ -6,10 +6,10 @@
     <!--<title>Luxaeterna</title> -->
   </head>
   <body>
-    <script src="sketch1.js" type="text/javascript"></script>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
-    <h2>Luxaeterna</h2>
+    <h2>Luxaeterna</h2
+    <script src="sketch1.js" type="text/javascript"></script>               
     <img src="lux.jpg" alt="Luxaeterna image"><br>
     <video width="320" height="240" controls>
     <source src="Luxaeterna2.mp4" type="video/mp4">
