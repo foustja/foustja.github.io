@@ -34,7 +34,7 @@
       title="2 min. Video">Pre-recorded</a><br>
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream">Livestream</a>
-    <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
+    <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a> (which I
       had the pleasure of seeing in 2017), and
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
