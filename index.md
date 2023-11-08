@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id='myContainer'></div>
-    <p>(This animation is a p5.js example sketch from an article on つぶやきProcessing by Koma Tebe. You can read about 
+    <p>(This animation is a p5.js example sketch borrowed from an article on つぶやきProcessing by Koma Tebe. You can read about 
     it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
     </p>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
@@ -35,8 +35,8 @@
     <a href="https://www.youtube.com/embed/live_stream?channel=UCH1IeN5ZQYLfa2T7RVm72mA" 
       title="Youtube Livestream">Livestream</a>
     <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece,
-      <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a>, which I
-      had the pleasure of seeing in 2017, and
+      <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a> (which I
+      had the pleasure of seeing in 2017) and
       <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
       ambitious projects.
     </p>
