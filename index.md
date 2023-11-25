@@ -9,8 +9,15 @@
   </head>
   <body>
     <div id='myContainer'></div>
-    <p>(This animation is a p5.js example sketch borrowed from an article on つぶやきProcessing by Koma Tebe. You can read about 
-    it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
+    <p>
+     This animation is a p5.js example sketch which I borrowed from an article on つぶやきProcessing 
+     by Koma Tebe. (You can read about 
+     it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
+     It's mainly an exercise to learn more about p5js, つぶやきProcessing, and embedding graphics. 
+     In order to embed this p5js sketch in an X tweet, I first had to rework it so it would run in 
+     the Processing IDE, exported it as an mp4, then converted mp4 to GIF with ffmpeg. Simple enough. 
+     Note that "createCanvas" and "let" are not keywords in Processing. You need to change 
+     "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
@@ -43,6 +50,11 @@
     <!--<footer>-->
       <p>
        Page created with <a href="https://atom.io/">Atom</a><br>
+       <p>
+        Note that Atom has been sunsetted, and is no longer being maintained. However, 
+        <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
+        (at least to this casual user) and makes a very nice replacement.
+       </p>
        <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
        <a href="https://github.com/foustja">GitHub repositories</a>
       </p>
