@@ -43,9 +43,10 @@
       title="Youtube Livestream">Livestream</a>
     <p>Inspiration for Luxaeterna was provided by Bunnie Huang's masterpiece
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a> (which I
-      had the pleasure of seeing in 2017), and
-      <a href="https://www.solcrusher.com/">Solcrusher</a>, two much more
-      ambitious projects.
+      had the pleasure of seeing in Black Rock City in 2017), and
+      <a href="https://www.solcrusher.com/">Solcrusher</a> (seen at Luminata at Green Lake Park 
+      in Seattle several years ago); these are both much more ambitious projects and interesting to 
+      learn about.
     </p>
     <!--<footer>-->
       <p>
