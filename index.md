@@ -45,8 +45,8 @@
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a> (which I
       had the pleasure of seeing in Black Rock City in 2017), and
       <a href="https://www.solcrusher.com/">Solcrusher</a> (seen at Luminata at Green Lake Park 
-      in Seattle several years ago); these are both much more ambitious projects and interesting to 
-      learn about.
+      in Seattle several years ago); these are both much more ambitious projects and are interesting 
+      to learn about.
     </p>
     <!--<footer>-->
       <p>
@@ -54,7 +54,7 @@
        <p>
         Note that Atom has been sunsetted, and is no longer being maintained. However, 
         <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
-        (at least to this casual user) and makes a very nice replacement.
+        and makes a nice replacement.
        </p>
        <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
        <a href="https://github.com/foustja">GitHub repositories</a>
