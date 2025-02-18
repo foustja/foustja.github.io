@@ -40,9 +40,9 @@
       in Seattle several years ago); both are much more ambitious projects and were interesting 
       to learn about.
     </p>
-    <p>Page created with <a href="https://atom.io/">Atom</a><br>
-    <p>
-     Note that Atom has been sunsetted, and is no longer being maintained. However, 
+    <p>Page created with <a href="https://atom.io/">Atom</a>
+    </p>
+    <p>Note that Atom has been sunsetted, and is no longer being maintained. However, 
      <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
      and makes a nice replacement.
     </p>
