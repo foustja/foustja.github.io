@@ -5,7 +5,6 @@ function setup() {
 }
 function draw() {
 t=0
-draw=_=>{t||createCanvas(400, 400, WEBGL)
 background(0)
 p=PI/40
 noStroke`つぶやきProcessing`
