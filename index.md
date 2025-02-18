@@ -40,7 +40,6 @@
       in Seattle several years ago); both are much more ambitious projects and were interesting 
       to learn about.
     </p>
-    <!--<footer>-->
       <p>
        Page created with <a href="https://atom.io/">Atom</a><br>
        <p>
