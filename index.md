@@ -40,16 +40,15 @@
       in Seattle several years ago); both are much more ambitious projects and were interesting 
       to learn about.
     </p>
-      <p>
-       Page created with <a href="https://atom.io/">Atom</a><br>
-       <p>
-        Note that Atom has been sunsetted, and is no longer being maintained. However, 
-        <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
-        and makes a nice replacement.
-       </p>
-       <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
-       <a href="https://github.com/foustja">GitHub repositories</a>
-      </p>
+    <p>Page created with <a href="https://atom.io/">Atom</a><br>
+    <p>
+     Note that Atom has been sunsetted, and is no longer being maintained. However, 
+     <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
+     and makes a nice replacement.
+    </p>
+     <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
+     <a href="https://github.com/foustja">GitHub repositories</a>
+    </p>
     <!--</footer>-->
   </body>
 </html>
