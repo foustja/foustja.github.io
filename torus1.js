@@ -1,13 +1,13 @@
 function setup() {
   let myCanvas = createCanvas(400, 400, WEBGL); 
   myCanvas.parent('myContainer');
-  noStroke();
+  
 }
 function draw() {
 t=0
 background(0)
 p=PI/40
-noStroke`つぶやきProcessing`
+noStroke();
 rotateX(.5)
 rotateY(-.5)
 r=100
