@@ -49,7 +49,7 @@
       in Seattle several years ago); both are much more ambitious projects and were interesting 
       to learn about.
     </p>
-    <footer>
+    <!--<footer>-->
       <p>
        Page created with <a href="https://atom.io/">Atom</a><br>
        <p>
@@ -60,7 +60,7 @@
        <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
        <a href="https://github.com/foustja">GitHub repositories</a>
       </p>
-    </footer>
+    <!--</footer>-->
   </body>
 </html>
 
