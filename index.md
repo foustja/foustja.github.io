@@ -6,11 +6,12 @@
     <!--<title>Luxaeterna</title> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
+    <script src="torus1.js" type="text/javascript"></script>
   </head>
   <body>
     <div id='myContainer'></div>
     <p>
-     This first animation is a p5.js example sketch which I borrowed from an article on つぶやきProcessing 
+     The first animation is a p5.js example sketch which I borrowed from an article on つぶやきProcessing 
      by Koma Tebe. (You can read about 
      it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
      It's mainly an exercise to learn more about p5js, つぶやきProcessing, and embedding graphics. 
@@ -20,7 +21,7 @@
      Note that "createCanvas" and "let" are not keywords in Processing. You need to change 
      "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
-    <script src="torus1.js" type="text/javascript"></script>
+    
     <p>
       The second one is by Nagayama, and can be seen in a larger display on his website (ngym.org).
     </p>
