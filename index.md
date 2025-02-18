@@ -6,7 +6,7 @@
     <!--<title>Luxaeterna</title> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
-     <script src="torus1.js" type="text/javascript"></script>
+    <script src="torus1.js" type="text/javascript"></script>
   </head>
   <body>
     <div id='myContainer'></div>
