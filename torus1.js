@@ -3,7 +3,7 @@ function setup() {
   myCanvas.parent('myContainer');
   noStroke();
 }
-
+function draw() {
 t=0
 draw=_=>{t||createCanvas(400, 400, WEBGL)
 background(0)
@@ -14,3 +14,4 @@ rotateY(-.5)
 r=100
 for(y=40;y--;)for(x=80;x--;pop(sphere(cos(v)+.3)))push(),translate((2+sin(v=(y+t)*p*2))*cos(u=(x+t)*p)*r,(2+sin(v))*sin(u)*r,z=cos(v)*r)
 t=(t+.04)%1}
+}
