@@ -14,8 +14,9 @@
      by Koma Tebe. (You can read about 
      it <a href="https://medium.com/@koma.tebe/tiny-code-dbf26d84fe38">here</a>.) 
      It's mainly an exercise to learn more about p5js, つぶやきProcessing, and embedding graphics. 
-     In order to embed this p5js sketch in an X tweet, I first had to rework it so it would run in 
-     the Processing IDE, exported it as an mp4, then converted mp4 to GIF with ffmpeg. Simple enough. 
+     In order to embed this p5js sketch in an X tweet, I first reworked it so it would run in 
+     the Processing IDE, exported it as an mp4, then converted mp4 to GIF with ffmpeg, using the 
+     command: ffmpeg -i xxxx.mp4 xxxx.gif. Simple enough. 
      Note that "createCanvas" and "let" are not keywords in Processing. You need to change 
      "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
@@ -45,7 +46,7 @@
       <a href="https://wiki.techinc.nl/Polyhedrone">Polyhedrone</a> (which I
       had the pleasure of seeing in Black Rock City in 2017), and
       <a href="https://www.solcrusher.com/">Solcrusher</a> (seen at Luminata at Green Lake Park 
-      in Seattle several years ago); both are much more ambitious projects and interesting 
+      in Seattle several years ago); both are much more ambitious projects and were interesting 
       to learn about.
     </p>
     <!--<footer>-->
