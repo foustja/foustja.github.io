@@ -1,3 +1,9 @@
+function setup() {
+  let myCanvas = createCanvas(400, 400, WEBGL); 
+  myCanvas.parent('myContainer');
+  noStroke();
+}
+
 t=0
 draw=_=>{t||createCanvas(400, 400, WEBGL)
 background(0)
