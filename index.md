@@ -49,18 +49,6 @@
      <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
      <a href="https://github.com/foustja">GitHub repositories</a>
     </p>
-    <script>
-t=0
-draw=_=>{t||createCanvas(W=600,W,WEBGL)
-background(0)
-p=PI/40
-noStroke`つぶやきProcessing`
-rotateX(.5)
-rotateY(-.5)
-r=100
-for(y=40;y--;)for(x=80;x--;pop(sphere(cos(v)+.3)))push(),translate((2+sin(v=(y+t)*p*2))*cos(u=(x+t)*p)*r,(2+sin(v))*sin(u)*r,z=cos(v)*r)
-t=(t+.04)%1}
-</script>
   </body>
 </html>
 
