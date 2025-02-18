@@ -20,6 +20,7 @@
      Note that "createCanvas" and "let" are not keywords in Processing. You need to change 
      "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
+     <script src="sketch1.js" type="text/javascript"></script>
     <!--<h1>Welcome to the Infinite Playa!</h1>-->
     <!--<img src="PlayaPano2019.jpg" alt="PlayaPano2019.jpg">-->
     <h2>Luxaeterna</h2>
