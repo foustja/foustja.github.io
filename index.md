@@ -8,6 +8,8 @@
   </head>
   <body>
     <div id='myContainer'></div>
+    <button onclick="noLoop();">Stop</button>
+    <button onclick="loop();">Run</button>
     <p>
      This animation is a p5.js example sketch which I borrowed from an article on つぶやきProcessing 
      by Koma Tebe. (You can read about 
