@@ -48,6 +48,7 @@
      <a href="https://pulsar-edit.dev/">Pulsar</a> is an application which is virtually identical 
      and makes a nice replacement.
     </p>
+    <p>
      <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
      <a href="https://github.com/foustja">GitHub repositories</a>
     </p>
