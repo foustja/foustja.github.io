@@ -3,7 +3,7 @@
   <head>
     <style> body{padding:0; margin:0;} </style>
     <meta charset="utf-8">
-     <a href="https://foustja.github.io/about/about.html">About</a>
+     <a href="https://foustja.github.io/about/about.html"><h2>About</h2></a>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
   </head>
