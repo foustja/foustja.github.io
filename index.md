@@ -27,6 +27,8 @@
       </span></h3>
     </a>
   </nav>
+
+  <hr width = "100%" />
   
   </header>
   
