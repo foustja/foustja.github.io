@@ -13,7 +13,8 @@
   <nav>
     <a href="index.html" aria-current="page">
       <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
-      Home</span></h3>
+      Home
+      </span></h3>
     </a>
     <a href="../posts/post_index.html"><h3>Posts</h3></a>
     <a href="../about/about.html"><h3>About</h3></a>
