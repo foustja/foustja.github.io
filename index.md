@@ -28,7 +28,7 @@
     </a>
   </nav>
 
-  <hr width = "100%" />
+  <hr>
   
   </header>
 
