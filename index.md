@@ -10,7 +10,7 @@
     
   <header>  
     
-  <nav>
+  <nav style="display: flex; gap: 20px;">
     <a href="index.html" aria-current="page">
       <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       Home
