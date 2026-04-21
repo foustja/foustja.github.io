@@ -6,14 +6,18 @@
   </head>
 
   <body>
+    
   <header>  
+    
   <nav>
     <a href="index.html" aria-current="page">Home</a>
     <a href="../posts/index.html">Posts</a>
     <a href="../about/about.html">About</a>
   </nav>
+  
   </header>
-
+  
+  <main></main>
     <h2>つぶやきProcessing</h2>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
@@ -70,5 +74,8 @@
      <a href="https://github.com/foustja">GitHub repositories</a><br>
     </p>
 
+  </main>
+
   </body>
+  
 </html>
