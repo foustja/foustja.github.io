@@ -17,7 +17,7 @@
   
   </header>
   
-  <main></main>
+  <main>
     <h2>つぶやきProcessing</h2>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
