@@ -80,6 +80,8 @@
       in Seattle several years ago); both much more ambitious projects.
     </p>
 
+    <br><br><br>
+
     <p>Page created with <a href="https://atom.io/">Atom</a>
     </p>
 
