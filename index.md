@@ -19,12 +19,12 @@
     <a href="../posts/post_index.html">
       <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       Posts
-      </h3>
+      </span></h3>
     </a>
     <a href="../about/about.html">
       <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       About
-      </h3>
+      </span> </h3>
     </a>
   </nav>
   
