@@ -10,9 +10,9 @@
   <header>  
     
   <nav>
-    <a href="index.html" aria-current="page">Home</a>
-    <a href="../posts/index.html">Posts</a>
-    <a href="../about/about.html">About</a>
+    <a href="index.html" aria-current="page"><h2>Home</h2>h2></a>
+    <a href="../posts/index.html"><h2>Posts</h2>h2></a>
+    <a href="../about/about.html"><h2>About</h2>h2></a>
   </nav>
   
   </header>
