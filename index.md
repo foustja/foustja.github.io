@@ -31,6 +31,8 @@
   <hr width = "100%" />
   
   </header>
+
+  <br><br><br>
   
   <main>
     <h2>つぶやきProcessing</h2>
