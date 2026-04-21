@@ -1,0 +1,26 @@
+<!--<!DOCTYPE html>-->
+<html>
+  <head>
+    <style> body{padding:0; margin:0;} </style>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+
+  <header>
+
+  <nav>
+    <a href="../index.html"><h3>Home</h3></a>
+    <a href="post_index.html" aria-current="page"><h3>Posts</h3></a>
+    <a href="../about/about.html"><h3>About</h3></a>
+  </nav>
+
+  </header>
+
+  <main>
+
+  </main>
+
+  </body>
+
+  </html>
