@@ -53,6 +53,8 @@
      Note that "createCanvas" and "let" are not keywords in Processing. You need to change
      "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
+    
+    <br><br><br>
 
     <h2>Luxaeterna</h2>
     <img src="lux.jpg" alt="Luxaeterna image"><br>
