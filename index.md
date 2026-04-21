@@ -28,7 +28,7 @@
     </a>
   </nav>
 
-  <hr>
+  <div style="border-top: 1px solid black; width: 100%;"></div>
   
   </header>
 
