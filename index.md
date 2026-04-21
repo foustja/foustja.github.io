@@ -24,7 +24,7 @@
     <a href="../about/about.html">
       <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       About
-      </span> </h3>
+      </span></h3>
     </a>
   </nav>
   
