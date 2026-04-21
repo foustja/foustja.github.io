@@ -3,6 +3,7 @@
   <head>
     <style> body{padding:0; margin:0;} </style>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/simple.css">
   </head>
 
   <body>
