@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
-    <style> body{padding:0; margin:3%; font-size:110%} </style>
+    <style> body{padding:0; margin:0;} </style>
     <meta charset="utf-8">
     <!--<link rel="stylesheet" href="../css/simple.css">-->
   </head>
@@ -13,32 +12,33 @@
     
   <nav style="display: flex; gap: 20px;">
     <a href="index.html" aria-current="page">
-      <h2><span style="border: 2px solid black; padding: 5px; display: inline-block;">
+      <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       Home
-      </span></h2>
+      </span></h3>
     </a>
     <a href="../posts/post_index.html">
-      <h2><span style="border: 2px solid black; padding: 5px; display: inline-block;">
+      <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       Posts
-      </span></h2>
+      </span></h3>
     </a>
     <a href="../about/about.html">
-      <h2><span style="border: 2px solid black; padding: 5px; display: inline-block;">
+      <h3><span style="border: 2px solid black; padding: 5px; display: inline-block;">
       About
-      </span></h2>
+      </span></h3>
     </a>
   </nav>
+
+  <div style="border-top: 1px solid black; width: 100%;"></div>
   
   </header>
+
+  <br><br><br>
   
   <main>
-    <div style="border-top: 1px solid black; width: 100%;"></div>
-    <h1>Projects</h1>
-    <br><br>
     <h2>つぶやきProcessing</h2>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>
     <script src="sketch1.js" type="text/javascript"></script>
-    <div id='myContainer1'></div>
+    <div id='myContainer'></div>
     <button onclick="noLoop();">Stop</button>
     <button onclick="loop();">Run</button>
 
@@ -54,11 +54,8 @@
      "createCanvas()" to "size()," and "let" to "float" (so that index "i" is declared as a float).
     </p>
     
-    <br><br>
+    <br><br><br>
 
-    
-
-    
     <h2>Luxaeterna</h2>
     <img src="lux.jpg" alt="Luxaeterna image"><br>
     <video width="320" height="240" controls>
@@ -83,30 +80,23 @@
       in Seattle several years ago); both much more ambitious projects.
     </p>
 
-    <br><br>
+    <br><br><br>
+
+    <p>Page created with <a href="https://atom.io/">Atom</a>
+    </p>
+
+    <p>Note that Atom has been sunsetted, and is no longer being maintained. However,
+     <a href="https://pulsar-edit.dev/">Pulsar</a> is virtually identical
+     and makes a nice replacement.
+    </p>
+
+    <p>
+     <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
+     <a href="https://github.com/foustja">GitHub repositories</a><br>
+    </p>
 
   </main>
 
-  <footer>
-    <div style="border-top: 1px solid black; width: 100%;"></div>
-    <p>
-      Page created with <a href="https://atom.io/">Atom</a>
-    </p>
-
-    <p>
-      Note that Atom has been sunsetted, and is no longer being maintained. However,
-      <a href="https://pulsar-edit.dev/">Pulsar</a> is virtually identical
-      and makes a nice replacement.
-    </p>
-
-    <p>
-      <a href="https://symbolicdomain.wordpress.com">Wordpress blog</a><br>
-      <a href="https://github.com/foustja">GitHub repositories</a><br>
-    </p>
-    
-    </footer>
-    
-  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" type="text/javascript"></script>-->
   </body>
   
 </html>
