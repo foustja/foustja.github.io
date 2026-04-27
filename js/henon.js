@@ -18,11 +18,13 @@ let width = 400;
 
 function setup() 
 {
-  createCanvas(400, 400);
-  background(200);
+  let myCanvas = createCanvas(400, 400); 
+  myCanvas.parent('myContainer');
   noStroke();
   
-  loop();
+  <!--createCanvas(400, 400);-->
+  background(200);
+ <!-- noStroke();-->
   
 }
 
