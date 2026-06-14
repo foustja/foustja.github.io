@@ -43,8 +43,8 @@ function draw()
       x = x_new;
       y = y_new;
     
-      screen_x = ((x + 2.0)*(width/4));
-      screen_y = ((-y + 2.0)*height/4);
+      screen_x = ((x + 1.5)*(width/4));
+      screen_y = ((-y + 1.5)*height/4);
     
       fill(red, green, blue); 
       rect(int(screen_x), int(screen_y), 1, 1);
