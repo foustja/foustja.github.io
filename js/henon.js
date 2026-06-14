@@ -1,5 +1,5 @@
 
-let width = 600;
+  let width = 600;
   let height = 600;
 
   let init_x = 0.1;
@@ -18,13 +18,13 @@ let width = 600;
 
 function setup() 
 {
-  let myCanvas = createCanvas(400, 400); 
+  let myCanvas = createCanvas(width, height); 
   myCanvas.parent('myContainer');
   noStroke();
   
-  <!--createCanvas(400, 400);-->
-  background(200);
- <!-- noStroke();-->
+  //createCanvas(400, 400);
+  //background(200);
+  //noStroke();
   
 }
 
