@@ -1,6 +1,6 @@
 
-let width = 400;
-  let height = 400;
+let width = 600;
+  let height = 600;
 
   let init_x = 0.1;
   let init_y = 0.1;
