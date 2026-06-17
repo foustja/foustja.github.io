@@ -20,9 +20,13 @@
 
 function setup() 
 {
-  createCanvas(width, height);
-  background(0, 0, 65);
+  let myCanvas = createCanvas(width, height); 
+  myCanvas.parent('myContainer');
   noStroke();
+  
+  //createCanvas(width, height);
+  //background(0, 0, 65);
+  //noStroke();
   
   loop();
   
