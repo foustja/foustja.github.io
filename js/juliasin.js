@@ -20,9 +20,13 @@
 
 function setup() 
 {
-  createCanvas(width, height);
-  background(125, 125, 125);
+  let myCanvas = createCanvas(width, height); 
+  myCanvas.parent('myContainer');
   noStroke();
+  
+  //createCanvas(width, height);
+  //background(125, 125, 125);
+  //noStroke();
   
   loop();
   
@@ -30,7 +34,7 @@ function setup()
 
 function draw() 
 {
- 
+ background(125, 125, 125);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
