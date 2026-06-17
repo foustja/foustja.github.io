@@ -1,5 +1,5 @@
-  let width = 400;
-  let height = 400;
+  let width = 600;
+  let height = 600;
 
   let init_x;
   let init_y;
@@ -38,13 +38,13 @@ function draw()
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
-    init_x = screen_x/(width/8) - 4.0;
+    init_x = screen_x/(width/6) - 3.0;
    
 
     for (screen_y = 1; screen_y < height; screen_y++)
     {
       //transforms screen_y to a long double value in the complex plane
-      init_y = -(screen_y/(height/8) - 4.0);
+      init_y = -(screen_y/(height/6) - 3.0);
       
       x = init_x;
       y = init_y;
