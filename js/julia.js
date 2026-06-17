@@ -34,7 +34,7 @@ function setup()
 
 function draw() 
 {
- 
+ background(0, 0, 65);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
