@@ -17,11 +17,9 @@
 
 function setup() 
 {
-  createCanvas(width, height);
-  background(200);
+  let myCanvas = createCanvas(width, height); 
+  myCanvas.parent('myContainer');
   noStroke();
-  
-  loop();
   
 }
 
