@@ -40,11 +40,15 @@ Another is a = 28, b = 46.92, c = 4.
 
 function setup() 
 {
-  createCanvas(width, height);
-  background(200);
+  //createCanvas(width, height);
+  //background(200);
+  //noStroke();
+  
+  let myCanvas = createCanvas(width, height); 
+  myCanvas.parent('myContainer');
   noStroke();
   
-  loop();
+  //loop();
   
 }
 
