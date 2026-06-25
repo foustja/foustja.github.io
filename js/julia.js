@@ -1,5 +1,5 @@
-  let width = 800;
-  let height = 800;
+  let width = 400;
+  let height = 400;
 
   let init_x;
   let init_y;
