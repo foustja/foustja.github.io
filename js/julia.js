@@ -14,9 +14,9 @@
   let a = 0.35;
   let b = 0.35;
   
-  let red = 0;
-  let green = 0;
-  let blue = 0;
+  let red = 255;
+  let green = 255;
+  let blue = 255;
 
 function setup() 
 {
@@ -25,16 +25,16 @@ function setup()
   noStroke();
   
   //createCanvas(width, height);
-  //background(65, 65, 65);
+  //background(0, 0, 65);
   //noStroke();
   
-  //loop();
+  loop();
   
 }
 
 function draw() 
 {
- background(200);
+ background(0, 0, 65);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
@@ -44,7 +44,7 @@ function draw()
     for (screen_y = 1; screen_y < height; screen_y++)
     {
       //transforms screen_y to a long double value in the complex plane
-      init_y = -(screen_y/(height/4) - 2.0;
+      init_y = -(screen_y/(height/4) - 2.0);
       
       x = init_x;
       y = init_y;
@@ -79,7 +79,7 @@ function draw()
 
       else
       {
-        fill(200);
+        fill(0, 0, 65); 
         rect(int(screen_x), int(screen_y), 1, 1); 
       }
       
