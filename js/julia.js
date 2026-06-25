@@ -28,13 +28,13 @@ function setup()
   //background(65, 65, 65);
   //noStroke();
   
-  loop();
+  //loop();
   
 }
 
 function draw() 
 {
- background(65, 65, 65);
+ background(200);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
@@ -79,7 +79,7 @@ function draw()
 
       else
       {
-        fill(65, 65, 65);
+        fill(200);
         rect(int(screen_x), int(screen_y), 1, 1); 
       }
       
