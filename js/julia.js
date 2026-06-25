@@ -1,5 +1,5 @@
-  let width = 600;
-  let height = 600;
+  let width = 800;
+  let height = 800;
 
   let init_x;
   let init_y;
@@ -25,7 +25,7 @@ function setup()
   noStroke();
   
   //createCanvas(width, height);
-  //background(65; 65; 65);
+  //background(65, 65, 65);
   //noStroke();
   
   loop();
@@ -34,17 +34,17 @@ function setup()
 
 function draw() 
 {
- background(65; 65; 65);
+ background(65, 65, 65);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
-    init_x = screen_x/(width/3) - 1.5;
+    init_x = screen_x/(width/4) - 2.0;
    
 
     for (screen_y = 1; screen_y < height; screen_y++)
     {
       //transforms screen_y to a long double value in the complex plane
-      init_y = -(screen_y/(height/3) - 1.5);
+      init_y = -(screen_y/(height/4) - 2.0;
       
       x = init_x;
       y = init_y;
@@ -79,7 +79,7 @@ function draw()
 
       else
       {
-        fill(0, 0, 65); 
+        fill(65, 65, 65);
         rect(int(screen_x), int(screen_y), 1, 1); 
       }
       
