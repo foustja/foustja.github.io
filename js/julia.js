@@ -14,9 +14,9 @@
   let a = 0.35;
   let b = 0.35;
   
-  let red = 255;
-  let green = 255;
-  let blue = 255;
+  let red = 0;
+  let green = 0;
+  let blue = 0;
 
 function setup() 
 {
@@ -34,7 +34,7 @@ function setup()
 
 function draw() 
 {
- background(0, 0, 65);
+ background(200);
  for (screen_x = 1; screen_x < width; screen_x++)
   {
     //transforms screen_x to a value in the complex plane
@@ -79,7 +79,7 @@ function draw()
 
       else
       {
-        fill(0, 0, 65); 
+        fill(200);
         rect(int(screen_x), int(screen_y), 1, 1); 
       }
       
